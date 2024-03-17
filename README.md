@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 📄 Know about my experiences [https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume%20.pdf](My Resume)
+- 📄 Know about my experiences [https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume%20.pdf](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume%20.pdf)
 
 - ⚡ Fun fact **I think I have knack for everything🤭**
 
@@ -35,4 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikhisingh&show_icons=true&locale=en&layout=compact" alt="rikhisingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikhisingh&show_icons=true&locale=en" alt="rikhisingh" /></p>
-
