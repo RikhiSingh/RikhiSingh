@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=0e75b6&style=flat" alt="rikhisingh" /> </p>
 
-- 🔭 I’m currently working on [CMS (Private Repo)](https://)
+- 🔭 I’m currently working on [CMS (Private Repo)](https://github.com/RikhiSingh)
 
 - 🌱 I’m currently learning **Neural Networks**
 
