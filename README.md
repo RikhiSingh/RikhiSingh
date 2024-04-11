@@ -6,6 +6,8 @@
 
 - 📄 Know about my experiences [See my Resume](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume.pdf)
 
+- 📫 How to reach me **rikhi_singh@outlook.com**
+
 - 🔭 I’m currently working on [CMS (Private Repo)](https://github.com/RikhiSingh)
 
 - 🌱 I’m currently learning **Neural Networks**
@@ -15,8 +17,6 @@
 - 🤝 I’m looking for help with **Software Developer Job😅**
 
 - 💬 Ask me about **Anything about Technology🙂**
-
-- 📫 How to reach me **rikhi_singh@outlook.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RikhiSingh](https://github.com/RikhiSingh)
 - 
