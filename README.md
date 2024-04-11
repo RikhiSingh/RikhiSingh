@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Anything about Technology🙂**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RikhiSingh](https://github.com/RikhiSingh)
+- 👨‍💻 All of my projects are available at [Repository](https://github.com/RikhiSingh?tab=repositories)
 - 
 - ⚡ Fun fact **I think I have knack for everything🤭**
 
