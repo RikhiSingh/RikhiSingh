@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 📄 Know about my experiences [CMS (Private Repo)](https://github.com/RikhiSingh)
+- 📄 Know about my experiences [CMS (Private Repo)]([https://github.com/RikhiSingh](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume.pdf))
 
 - 👨‍💻 All of my projects are available at [https://github.com/RikhiSingh](https://github.com/RikhiSingh)
 - 
