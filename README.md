@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="rikhisingh" /> </p>
 
+- 📄 Know about my experiences [See my Resume](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume.pdf)
+
 - 🔭 I’m currently working on [CMS (Private Repo)](https://github.com/RikhiSingh)
 
 - 🌱 I’m currently learning **Neural Networks**
@@ -15,8 +17,6 @@
 - 💬 Ask me about **Anything about Technology🙂**
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
-
-- 📄 Know about my experiences [See my Resume](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume.pdf)
 
 - 👨‍💻 All of my projects are available at [https://github.com/RikhiSingh](https://github.com/RikhiSingh)
 - 
