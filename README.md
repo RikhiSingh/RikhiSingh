@@ -12,14 +12,14 @@
 
 - 🤝 I’m looking for help with **Software Developer Job😅**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RikhiSingh](https://github.com/RikhiSingh)
-
 - 💬 Ask me about **Anything about Technology🙂**
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 📄 Know about my experiences []([https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume%20.pdf](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume.pdf))
+- 📄 Know about my experiences [See my Resume]([https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume%20.pdf](https://rikhisingh.github.io/responsive-resume/resume%20assets/pdf/RikhiSingh%20-%20Resume.pdf))
 
+- 👨‍💻 All of my projects are available at [https://github.com/RikhiSingh](https://github.com/RikhiSingh)
+- 
 - ⚡ Fun fact **I think I have knack for everything🤭**
 
 <h3 align="left">Connect with me:</h3>
