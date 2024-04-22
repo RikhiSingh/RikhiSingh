@@ -19,7 +19,7 @@
 - 💬 Ask me about **Anything about Technology🙂**
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/RikhiSingh?tab=repositories)
-- 
+  
 - ⚡ Fun fact **I think I have knack for everything🤭**
 
 <h3 align="left">Connect with me:</h3>
