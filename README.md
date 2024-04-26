@@ -16,7 +16,8 @@
 
 - 🤝 I’m looking for help with **Software Developer Job😅**
 
-- 💬 Ask me **Anything about Technology🙂**, I know about it ? "{Explain it to you}" : "I will know it moving forward"
+- 💬 Ask me **Anything about Technology🙂**,
+       I know about it ? "{Explain it to you}" : "{I will know it moving forward}"
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/RikhiSingh?tab=repositories)
   
