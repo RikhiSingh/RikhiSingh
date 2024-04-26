@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Repository](https://github.com/RikhiSingh?tab=repositories)
   
-- ⚡ Fun fact **I think I have knack for everything🤭**
+- ⚡ Fun fact **I like building things from scratch, GROUND UP!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
