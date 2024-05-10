@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="rikhisingh" /> </p>
 
-- 📄 Know about my experiences <a href="https://rikhisingh.github.io/resume.pdf" target="_blank">See my Resume</a>
+- 📄 Know about my experiences <a href="https://rikhisingh.github.io/" target="_blank">See my Resume</a>
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
