@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 🔭 I’m currently working on [Duolingo Clone](https://github.com/RikhiSingh](https://github.com/RikhiSingh/Duolingo-Clone)
+- 🔭 I’m currently working on [Duolingo Clone](https://github.com/RikhiSingh/Duolingo-Clone)
 
 - 🌱 I’m currently learning **Neural Networks**
 
