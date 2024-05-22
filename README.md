@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 🔭 I’m currently working on [Duolingo Clone](https://github.com/RikhiSingh/Duolingo-Clone)
+- 🔭 I’m currently working on [SaaS AI Application (CelebSavvy)](https://github.com/RikhiSingh/CelebSavvy)
 
 - 🌱 I’m currently learning **Neural Networks**
 
