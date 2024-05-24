@@ -13,19 +13,6 @@
 
 - 🔭 I’m currently working on [SaaS AI Application (CelebSavvy)](https://github.com/RikhiSingh/CelebSavvy)
 
-- 🌱 I’m currently learning **Neural Networks**
-
-- 👯 I’m looking to collaborate on **Any Web or Software Project**
-
-- 🤝 I’m looking for help with **Software Developer Job😅**
-
-- 💬 Ask me **Anything about Technology🙂**,
-   -    I know about it ? "{Explain it to you}" : "{I will know it moving forward}"
-
-- 👨‍💻 All of my projects are available at [Repository](https://github.com/RikhiSingh?tab=repositories)
-  
-- ⚡ Fun fact **I like building things from scratch, GROUND UP!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rikhisingh5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikhisingh5" height="30" width="40" /></a>
