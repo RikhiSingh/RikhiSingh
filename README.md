@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 🔭 I’m currently working on [SaaS AI Application (CelebSavvy)](https://github.com/RikhiSingh/CelebSavvy)
+- 🔭 I’m currently working on [Mentimeter Clone](https://mentibyrikhi.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
