@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rikhi Singh</h1>
+<h1 align="center">Hi 👋, I'm Rikhi</h1>
 <h3 align="center">Passionate Web Dev | Proficient in NextJS, TS, Tailwind</h3>
 
 <p><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikhisingh&show_icons=true&locale=en&layout=compact" alt="rikhisingh" /></p>
