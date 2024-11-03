@@ -7,7 +7,7 @@
 
 - 📄 See My Portfolio [Portfolio Link](https://rikhisingh.github.io/)
 
-- 📄 Know about my experiences <a href="https://rikhisingh.github.io/calculator/RikhiSingh%20-%20Resume.pdf">See my Resume</a>
+- 📄 Know about my experiences <a href="https://rikhisingh.github.io/calculator/Rikhi%20Singh%20-%20Resume.pdf">See my Resume</a>
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
