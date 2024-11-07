@@ -27,4 +27,4 @@
 <h3 align="right">&nbsp;</h3>
 <p><img align="right" width="400" src="https://leetcard.jacoblin.cool/rikhisingh?theme=dark&font=Stint%20Ultra%20Expanded" alt="rikhisingh" /></p>
 
-<p><img align="left" width="500" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></P
+<p><img align="left" width="300" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></P
