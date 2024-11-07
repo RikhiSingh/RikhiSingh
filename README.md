@@ -2,7 +2,8 @@
 <h3 align="center">Passionate Web Dev | Proficient in NextJS, TS, Tailwind</h3>
 
 <p><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikhisingh&show_icons=true&locale=en&layout=compact" alt="rikhisingh" /></p>
-<p>![LeetCode Stats](https://leetcard.jacoblin.cool/rikhisingh?theme=dark&font=Stint%20Ultra%20Expanded)</p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/rikhisingh?theme=dark&font=Stint%20Ultra%20Expanded)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="rikhisingh" /> </p>
 
