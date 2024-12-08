@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
-- 🔭 I’m currently working on [E-Commerce Front End Store](https://communocart-store.vercel.app/)
+- 🔭 I’m currently contributing to open-source on [Bruno API Client](https://github.com/RikhiSingh/bruno)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
