@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="rikhisingh" /> </p>
 
 
-- 📄 See My Portfolio [Portfolio Link](https://rikhisingh.github.io/)
+- 📄 See My Portfolio [Portfolio Link](https://rikhi.dev/)
 
 - 📄 Know about my experiences <a href="https://rikhisingh.github.io/calculator/Rikhi%20Singh%20-%20Resume.pdf">See my Resume</a>
 
