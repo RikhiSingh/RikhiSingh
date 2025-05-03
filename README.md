@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rikhi</h1>
 <h3 align="center">Passionate Software Dev | Proficient in C#, TS & More</h3>
+<h3 align="center">🚀 <a href="https://gitlab.com/rikhi.dev">https://gitlab.com/rikhi.dev</a></h3>
 
 <p><img align="right" height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikhisingh&show_icons=true&locale=en&layout=donut-vertical" alt="rikhisingh" /></p>
 
