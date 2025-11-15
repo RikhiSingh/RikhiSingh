@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="rikhisingh" /> </p>
 
 ### 💻 About Me  
-- 🎓 Studied **Artificial Intelligence at the University of Helsinki**  
+- 🎓 Studied **University of Michigan**  
 - 🌱 Contributor to **Unreal Engine**, **BetterAuth**, and **GitHub CLI**  
 - 🌐 See My Portfolio [Portfolio Link](https://rikhi.dev/)  
 - 📄 Know about my experiences <a href="https://rikhisingh.github.io/calculator/Rikhi%20Singh%20-%20Resume.pdf">See my Resume</a>  
