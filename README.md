@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 
-<p><img align="right" height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikhisingh&show_icons=true&locale=en&layout=donut-vertical" alt="rikhisingh" /></p>
+<!-- <p><img align="right" height="400" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=rikhisingh&show_icons=true&locale=en&layout=donut-vertical" alt="rikhisingh" /></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikhisingh&label=Profile%20views&color=brightgreen&style=for-the-badge&abbreviated=true" alt="rikhisingh" /> </p>
 
