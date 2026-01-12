@@ -10,7 +10,7 @@
 - 🎓 Studied **University of Michigan**  
 - 🌱 Contributor to **Unreal Engine**, **BetterAuth**, and **GitHub CLI**  
 - 🌐 See My Portfolio [Portfolio Link](https://rikhi.dev/)  
-- 📄 Know about my experiences <a href="https://rikhisingh.github.io/calculator/Rikhi%20Singh%20-%20Resume.pdf">See my Resume</a>  
+- 📄 Know about my experiences <a href="https://rikhi.dev/Rikhi%20Singh%20-%20Resume.pdf">See my Resume</a>  
 - 📫 How to reach me **rikhi_singh@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
