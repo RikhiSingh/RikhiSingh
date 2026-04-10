@@ -5,7 +5,7 @@
 
 Full-stack software engineer specializing in AI-powered production systems. I build scalable platforms using LLMs, vector search, and modern TypeScript/React stacks.
 
-- Studied at University of Michigan and Conestoga College
+- Studied at University of Michigan, University of Helsinki and Conestoga College
 - Was contributor to Unreal Engine, BetterAuth, and GitHub CLI (**I graduated and they didn pay me**)
 - Portfolio: [rikhi.dev](https://rikhi.dev)
 - Resume: [View PDF](https://rikhi.dev/Rikhi%20Singh%20-%20Resume.pdf)
